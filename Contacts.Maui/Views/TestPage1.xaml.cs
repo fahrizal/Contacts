@@ -10,8 +10,8 @@ public partial class TestPage1 : ContentPage
     {
         InitializeComponent();
 
-        contactViewModel = new ContactViewModel();
-        BindingContext = contactViewModel;
+        //contactViewModel = new ContactViewModel();
+        //BindingContext = contactViewModel;
     }
 
 }

@@ -10,6 +10,6 @@
         <Entry Placeholder="Email" Text="{Binding Contact.Email}"></Entry>
         <Entry Placeholder="Phone" Text="{Binding Contact.Phone}"></Entry>
         <Entry Placeholder="Address" Text="{Binding Contact.Address}"></Entry>
-        <Button Text="Save" Command="{Binding SaveContactCommand}"></Button>
+        <!--<Button Text="Save" Command="{Binding SaveContactCommand}"></Button>-->
     </VerticalStackLayout>
 </ContentPage>
